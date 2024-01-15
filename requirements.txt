@@ -3,3 +3,6 @@ openai
 langchain
 tiktoken
 python-dotenv
+google-cloud-aiplatform
+google-auth
+google-generativeai

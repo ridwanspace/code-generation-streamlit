@@ -1,6 +1,6 @@
 import streamlit as st
 
-from utils.code_generation import generate_code
+from utils.openai_code_generation import generate_code
 
 # page config
 st.set_page_config(
