@@ -73,7 +73,7 @@ PROJECT_ID = xxxx
 
 #### 5. Run the App
 ```bash
-streamlit run app.py
+streamlit run Home.py
 ```
 
 
