@@ -78,7 +78,7 @@ streamlit run app.py
 
 
 ### Cost
-- Check this Open AI[pricing](https://openai.com/pricing)
-- Check this Vertex AI[pricing(https://cloud.google.com/vertex-ai/pricing)]
+- Check this Open AI [pricing](https://openai.com/pricing)
+- Check this Vertex AI [pricing](https://cloud.google.com/vertex-ai/pricing)
 
 
